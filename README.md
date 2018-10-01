@@ -2,7 +2,12 @@
 <h2>build your own tool to study english</h2>
 <h2>创建属于你自己的英语学习工具</h2>
 
-<div style="width:200px";height:80px;display:flex;flex-direction:column;color:white;background-color:darkgreen;">
+<div style="width:200px";height:80px;color:white;background-color: #003333;
+      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: start;
+      flex-direction:column;">
 
 <p>互联网是一个充满惊喜的盒子</p>
 <p>englishbox首先是一个工具，</p>
