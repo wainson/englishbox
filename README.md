@@ -1,9 +1,10 @@
 # englishbox
-<h1>build your own tool for studying english</h1>
+<h2>build your own tool to study english</h2>
+<h2>创建属于你自己的英语学习工具</h2>
 互联网是一个充满惊喜的盒子
-englishbox是一个工具，
-首先复制一个英语句子，
-然后会出现在黑板上，
+englishbox首先是一个工具，
+使用方法是先复制一个英语句子到文字输入框
+然后英语句子会出现在黑板上，
 接着可以对英语单词进行任意位置的拖动和组合
 通过这些拖动和组合，
 我们对英语长句子的视角也会随之发生变化。
